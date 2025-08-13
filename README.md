@@ -4,3 +4,4 @@ Notas:
   - Cada archivo .jar indicará a que motor de SQL está asociado.
   - Al ser entorno personal, se utiliza XAMPP para el servidor de MySQL.
   - Dentro de cada carpeta se encontrará el archivo .jar y el archivo de la base de datos (no todos lo tendrán).
+  - Para poder crear el archivo .jar con las librerías externas se utilizó: http://panamahitek.com/crear-un-archivo-jar-con-librerias-externas/
