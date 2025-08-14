@@ -1,0 +1,44 @@
+# === NetBeans con Java y Ant ===
+
+# Carpeta con configuraciones privadas del entorno del usuario
+nbproject/private/
+
+# Archivos generados automáticamente por NetBeans
+build/
+dist/
+nbbuild/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+*.orig
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de configuración de entorno local
+*.properties.local
+*.user
+
+# Archivos de control de versiones conflictivos
+*.rej
+
+# Archivos de configuración de IDEs adicionales
+.idea/
+*.iml
+.vscode/
+
+# Archivos empaquetados
+*.war
+*.ear
